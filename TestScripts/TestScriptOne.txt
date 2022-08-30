@@ -1,0 +1,18 @@
+Testy: Hello! My name is Testy!
+Testy: As you can see, I'm very critical!
+Testy: I will work very hard to expose flaws in your code.
+Testy: Let me show you how.
+_____
+Testy: "Here is a line with a begining quote" that will appear with 4 quote characters in the output.
+Testy: Here is a line with a ending quote "that will appear with 4 quote characters in the output".
+Testy: Here is a line with a "middle" quote that will appear with 4 quote characters in the output.
+Testy: Here is a line with a partial unclosed quote "that will appear with one quote character in the output.
+_____
+Testy: The following line with the commented message **commented message** will not appear in the output.
+#commented message
+Testy: A hash symbol (#) is still allowed in the text when it's not at the beginning
+_____
+Testy: Special Events follow and asterisk symbol and appear in the fifth column of the output.
+*ChoiceA: Yes
+*ChoiceB: No
+*ChoiceAStart
